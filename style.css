@@ -19,7 +19,7 @@ body{
 .main img{
     width: 100%;
 }
-.about{
+.main .about{
     font-size: 1.4rem;
     line-height: 2rem;
 }
